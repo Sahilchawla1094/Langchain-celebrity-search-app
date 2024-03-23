@@ -1,3 +1,5 @@
+#Langchain celebrity search app
+
 Step 1 - Create API key and paste in constants.py
 
 Step 2 - Create folder and create environment
